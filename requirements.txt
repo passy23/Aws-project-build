@@ -1,0 +1,2 @@
+pytest
+pytest-cov #pour les tests de couverture
