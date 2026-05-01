@@ -1,7 +1,8 @@
 version: 0.2
 phases:
   install:
-    runtime-versions: python3
+    runtime-versions: 
+      python: 3.8
     commands:
       - echo installing dependencies...
       - pip install -r requirements.txt
